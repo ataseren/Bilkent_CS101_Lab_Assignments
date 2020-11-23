@@ -1,2 +1,2 @@
 # Bilkent_CS101_Lab_Assignments
-Codes for Bilkent University CS101 lab assignments.
+Codes for lab assignments of Bilkent University CS101 class (2019-2020).
